@@ -1,0 +1,39 @@
+[
+    {
+      "id": "1",
+      "name": "Dr. John",
+      "specialization": "Cardiologist",
+      "available_time": "7 AM - 7 PM"
+    },
+    {
+      "id": "2",
+      "name": "Dr. Smith",
+      "specialization": "Dentist",
+      "available_time": "9 AM - 5 PM"
+    },
+    {
+        "id": "3",
+        "name": "Dr. John",
+        "specialization": "Cardiologist",
+        "available_time": "7 AM - 7 PM"
+      },
+      {
+        "id": "4",
+        "name": "Dr. Smith",
+        "specialization": "Dentist",
+        "available_time": "9 AM - 5 PM"
+      },
+      {
+        "id": "5",
+        "name": "Dr. John",
+        "specialization": "Cardiologist",
+        "available_time": "7 AM - 7 PM"
+      },
+      {
+        "id": "6",
+        "name": "Dr. Smith",
+        "specialization": "Dentist",
+        "available_time": "9 AM - 5 PM"
+      }
+  ]
+  
